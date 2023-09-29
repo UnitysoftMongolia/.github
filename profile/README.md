@@ -10,7 +10,7 @@ All of our enterprise systems are built for working together in one place. Drive
 - [Help & Support](https://help.unitysoft.mn)
 
 **Follow us - Get Notified 🔔**
-- [@UnitysoftMongolia](www.facebook.com/UnitysoftMongolia) on Facebook
-- [@UnitysoftMongolia](www.instagram.com/UnitysoftMongolia) on Instagram
+- [@UnitysoftMongolia](https://facebook.com/UnitysoftMongolia) on Facebook
+- [@UnitysoftMongolia](https://instagram.com/UnitysoftMongolia) on Instagram
 - [@unitysoft_](https://twitter.com/unitysoft_) on Twitter
-- [@UnitysoftMongolia](www.linkedin.com/company/UnitysoftMongolia) on Linkedin
+- [@UnitysoftMongolia](https://linkedin.com/company/UnitysoftMongolia) on Linkedin
