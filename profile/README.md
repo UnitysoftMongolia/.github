@@ -12,6 +12,6 @@ All of our enterprise systems are built for working together in one place. Drive
 
 **Follow us - Get Notified 🔔**
 - [@UnitysoftMongolia](https://facebook.com/UnitysoftMongolia) on Facebook
-- [@UnitysoftMongolia](https://instagram.com/UnitysoftMongolia) on Instagram
+- [@unitysoft.mongolia](https://instagram.com/unitysoft.mongolia) on Instagram
 - [@unitysoft_](https://twitter.com/unitysoft_) on Twitter
 - [@UnitysoftMongolia](https://linkedin.com/company/UnitysoftMongolia) on Linkedin
