@@ -1,8 +1,8 @@
 ## We are Unitysoft
 
-**🚀 Unified Enterprise Systems**
+**Unified Risk Platform**
 
-All of our enterprise systems are built for working together in one place. Drive your business with the Unitysoft that makes your work more efficient and easier.
+All of our products are built for working together in one unified place. Drive your business with Unitysoft which makes your work more efficient and easier.
 
 **Our**
 - [Website](https://www.unitysoft.mn)
